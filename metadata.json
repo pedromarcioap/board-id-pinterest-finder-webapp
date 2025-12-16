@@ -1,0 +1,5 @@
+{
+  "name": "BoardID Pinterest Finder - Webapp",
+  "description": "Uma utilidade web rápida e limpa para extrair o Board ID de pastas públicas do Pinterest.",
+  "requestFramePermissions": []
+}
